@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploWebApiBd", "ExemploWebApiBd.csproj", "{607FB170-F8ED-4688-92C9-A2BE77CE0C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607FB170-F8ED-4688-92C9-A2BE77CE0C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607FB170-F8ED-4688-92C9-A2BE77CE0C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607FB170-F8ED-4688-92C9-A2BE77CE0C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607FB170-F8ED-4688-92C9-A2BE77CE0C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9DD3A2B-9E1A-45B9-BB72-2AE1C02BFD3F}
+	EndGlobalSection
+EndGlobal

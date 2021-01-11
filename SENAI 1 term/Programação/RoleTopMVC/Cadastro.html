@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Role Top</title>
+    <link href="https://fonts.googleapis.com/css?family=Londrina+Solid:900%7COpen+Sans" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="css/reserve.css" rel="stylesheet" type="text/css">
+    
+
+    <!-- Importar o Font Awesome para o projeto -->
+    <script src="https://kit.fontawesome.com/349a64cb04.js"></script>
+</head>
+
+<body class="flex-container">
+    <header>
+        <nav>
+                <div class="section-container">
+                    <ul>
+                        <li id="bt-mobile-menu">
+                            <!-- HTML para colocar os ícones do FA -->
+                            <a href="javascript:void(0);" class="icon" onclick="toggleMobileMenu()">
+                                <i class="fa fa-bars"></i>
+                            </a>
+                        </li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html" class="active">Home</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#hamburgueres">Eventos</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="login.html#login">Login</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#historia">Sobre</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#local">Localização</a></li>
+                        <li><a id="bt-peca_ja" href="reserve.html">Reservar</a></li>
+                    </ul>
+                </div>
+            </nav>
+        <hgroup>
+            <h1>Role Top</h1>
+        </hgroup>
+        <section id="logo-area">
+            <img src="img/logo.png" alt="Logotipo TOP" title="logo" />
+            <hgroup>
+                <h1>Rolê Top</h1>
+                <h2>O Rolê mais Top de todos os tempos</h2>
+            </hgroup>
+        </section>
+    </header>
+    <main>
+        <br>
+        <br>
+        <br>
+        <div id="forma">
+                <h2>Cadastro</h2>
+                <form method="GET" action="index.html">
+                <div>
+                    <label for="nome">Nome Completo</label>
+                    <br />
+                    <input id="nome" type="text" maxlength="20" minlength="3" name="nome" />
+                </div>
+
+                <div>
+                    <label for="endereco">Endereço</label>
+                    <br />
+                    <input id="endereco" type="text" maxlength="500" minlength="3" name="endereco" />
+                </div>
+
+                <div>
+                    <label for="telefone">Telefone para contato</label>
+                    <br />
+                    <input id="telefone" type="text" />
+                </div>
+
+                <div>
+                    <label for="email">E-mail</label>
+                    <br />
+                    <input id="email" type="email" />
+                </div>
+
+                <div class="double-field">
+                    <form method="GET" action="pagamento.html">
+                        <div>
+                            <input id="dia" type="date">
+                            <p>*Você receberá um e-mail confirmando sua conta.</p>
+                        </div>
+                        <input type="submit" value="Criar" />
+                    </form>
+                </div>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="section-container">
+            <address>
+                Avenida de Limeira, 539 - Campos Elíseos - SP
+                <br />
+                roletop@email.com
+                <br />
+                11 1234 6789
+            </address>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMobileMenu() {
+            var ul = document.querySelector("nav ul");
+            var commonButtons = document.querySelectorAll("nav .bt-common-menu");
+            var icon = document.querySelector(".icon > i");
+
+            ul.classList.toggle("mobile-mode");
+
+            if (icon.classList.contains("fa-bars")) {
+                icon.classList.remove("fa-bars");
+                icon.classList.remove("fa");
+
+                icon.classList.add("fas");
+                icon.classList.add("fa-skull");
+            } else {
+                icon.classList.remove("fas");
+                icon.classList.remove("fa-skull");
+
+                icon.classList.add("fa");
+                icon.classList.add("fa-bars");
+            }
+
+            for (var button of commonButtons) {
+                button.classList.toggle("active");
+            }
+
+        }
+        
+    </script>
+</body>
+
+</html>

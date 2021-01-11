@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>RoLê Top</title>
+        <!-- favicon -->
+        <link href="img/logo.png" rel="icon" type="image/x-icon"/>
+        <link href="https://fonts.googleapis.com/css?family=Fredoka+One&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Londrina+Solid:900%7COpen+Sans" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="css/reserve.css" rel="stylesheet" type="text/css">
+        <!-- Importar o Font Awesome para o projeto -->
+        <script src="https://kit.fontawesome.com/349a64cb04.js"></script>
+    </head>
+
+<body class="flex-container">
+    <header>
+        <nav>
+                <div class="section-container">
+                    <ul>
+                        <li id="bt-mobile-menu">
+                            <!-- HTML para colocar os ícones do FA -->
+                            <a href="javascript:void(0);" class="icon" onclick="toggleMobileMenu()">
+                                <i class="fa fa-bars"></i>
+                            </a>
+                        </li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html" class="active">Home</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#hamburgueres">Eventos</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="login.html#login">Login</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#historia">Sobre</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="index.html#local">Localização</a></li>
+                        <li><a id="bt-peca_ja" href="reserve.html">Reservar</a></li>
+                    </ul>
+                </div>
+                <div class= "c">
+                    <br>
+                </div>
+            </nav>
+        <hgroup>
+            <h1>Role Top</h1>
+        </hgroup>
+        <section id="logo-area">
+            <img src="img/logo.png" alt="Logotipo TOP" title="logo" />
+            <hgroup>
+                <h1>Rolê Top</h1>
+                <h2>O Rolê mais Top de todos os tempos</h2>
+            </hgroup>
+        </section>
+    </header>
+    <main>
+        <div id="Forma">
+            <br>
+                <h2>Cadastro</h2>
+                <form method="GET" action="index.html">
+                <div>
+                    <label for="nome">Nome Completo</label>
+                    <br />
+                    <input id="nome" type="text" maxlength="50" minlength="3" name="nome" />
+                </div>
+
+                <div>
+                    <label for="endereco">Endereço</label>
+                    <br />
+                    <input id="endereco" type="text" maxlength="60" minlength="3" name="endereco" />
+                </div>
+
+                <div>
+                    <label for="telefone">Telefone para contato</label>
+                    <br />
+                    <input id="telefone" type="text"  maxlength="13" minlength="8" name="telefone"/>
+                </div>
+
+                <div>
+                    <label for="email">E-mail</label>
+                    <br />
+                    <input id="email" type="email" maxlength="50" minlength="3" name="email"/>
+                </div>
+
+
+                        <label for="dia">Data de nascimento:</label>
+                        <br>
+                        <input id="dia" type="date">
+                            <div class= "Confirmar">
+                                <p>*Você receberá um e-mail de confirmação.</p>
+                            </div>
+                        <input type="submit" value="cadastrar" />
+                    </form>
+                </div>
+        </div>
+    </main>
+    
+    <footer>      
+            <div class="section-container fixed">
+    
+                <div class="redes-sociais">
+                    <a href="https://www.facebook.com/Rol%C3%AATop-106506047400870/?modal=admin_todo_tour"><img src="img/Facebook_logo_2.png" alt="siga-nos" title="Nossa página"/></a>
+                    <p>siga-nos</p>
+                </div>
+    
+                <address>
+                    Avenida de Limeira, 539 - Campos Elíseos - SP
+                    <br />
+                    roletop@email.com
+                    <br />
+                    11 1234 6789
+                </address>
+                <a href="#">Voltar para o topo!</a>
+            </div>
+        </footer>
+
+    <script>
+        function toggleMobileMenu() {
+            var ul = document.querySelector("nav ul");
+            var commonButtons = document.querySelectorAll("nav .bt-common-menu");
+            var icon = document.querySelector(".icon > i");
+
+            ul.classList.toggle("mobile-mode");
+
+            if (icon.classList.contains("fa-bars")) {
+                icon.classList.remove("fa-bars");
+                icon.classList.remove("fa");
+
+                icon.classList.add("fas");
+                icon.classList.add("fa-skull");
+            } else {
+                icon.classList.remove("fas");
+                icon.classList.remove("fa-skull");
+
+                icon.classList.add("fa");
+                icon.classList.add("fa-bars");
+            }
+
+            for (var button of commonButtons) {
+                button.classList.toggle("active");
+            }
+
+        }
+        
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,92 @@
+main{
+    text-align: center;
+    /* margin: 50px;  */
+
+}
+
+footer{
+    display: flex;
+    justify-content: end;
+    font-size: 1.5em;
+    margin-top: 13%;
+}
+#Reserve.html {
+    color: #8e20b3;
+    text-shadow: -1px -1px 0 #ffe414, 1px -1px 0 #ffe414, -1px 1px 0 #ffe414, 1px 1px 0 #ffe414;
+}
+section h2 {
+    padding: 20px 0;
+}
+h2 {
+    font-size: 1.2em;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fredoka One', 'Londrina Solid', cursive;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+section {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

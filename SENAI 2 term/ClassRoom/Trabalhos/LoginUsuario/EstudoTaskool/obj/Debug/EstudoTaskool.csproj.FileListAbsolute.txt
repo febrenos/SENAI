@@ -1,0 +1,84 @@
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe.config
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\bin\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmCadastro.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmLogin.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Properties.Resources.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmSplash.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 2 (05-06)\EstudoTaskool\obj\Debug\EstudoTaskool.FrmPrincipal.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe.config
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\bin\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmCadastro.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmLogin.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.FrmPrincipal.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmSplash.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Properties.Resources.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 3 (08-06)\EstudoTaskool\obj\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe.config
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\bin\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmCadastro.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmLogin.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.FrmPrincipal.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmSplash.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Properties.Resources.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 4 (09-06)\EstudoTaskool\obj\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe.config
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\bin\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmCadastro.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmLogin.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.FrmPrincipal.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmSplash.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Properties.Resources.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Views.frmListaUsuario.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Views.frmSobre.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 5 (10-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csprojAssemblyReference.cache
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\bin\Debug\EstudoTaskool.exe.config
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\bin\Debug\EstudoTaskool.exe
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\bin\Debug\EstudoTaskool.pdb
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.csprojAssemblyReference.cache
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.frmCadastro.resources
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.Views.frmListaUsuario.resources
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.frmLogin.resources
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.FrmPrincipal.resources
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.Views.frmSobre.resources
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.frmSplash.resources
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.Properties.Resources.resources
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.GenerateResource.cache
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.CoreCompileInputs.cache
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.exe
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Desktop\Manha\EstudoTaskool\obj\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe.config
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\bin\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\bin\Debug\EstudoTaskool.pdb
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmCadastro.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Views.frmListaUsuario.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmLogin.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.FrmPrincipal.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Views.frmSobre.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.frmSplash.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.Properties.Resources.resources
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.exe
+C:\Users\admin\Desktop\2o Termo Senai 1.32\Turma 2o Termo - 2020 LIDIANE\Aula 7 (12-06)\EstudoTaskool\obj\Debug\EstudoTaskool.pdb

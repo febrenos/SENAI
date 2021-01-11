@@ -1,0 +1,430 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Calibri', 'Open Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Fredoka One', 'Londrina Solid', cursive;
+}
+
+#teste {
+    display: none;
+}
+
+h1 {
+    display: none;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+h2 > img {
+    height: 1.5em;
+    width: 1.5em;
+    vertical-align: middle;
+}
+
+#logo-area h2 {
+    padding: 0.5em 0 0 0;
+}
+
+
+#logo-area > img {
+    padding: 3em 0 0 0;
+    width: 23%;
+}
+
+section {
+    text-align: center;
+}
+
+section h2 {
+    padding: 20px 0;
+}
+
+section > a {
+    display: block;
+    padding: 20px 0;
+    text-decoration: none;
+}
+
+.section-container {
+    margin: 0 auto;
+    max-width: 1360px;
+}
+
+.section-container > a {
+    display: block;
+    padding: 20px 0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.janda-font {
+    font-family: 'Fredoka One', 'Londrina Solid', cursive;
+}
+
+/*********************************************
+                    NAV
+**********************************************/
+nav {
+    background-color: #ca2bff;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+nav #bt-mobile-menu {
+    display: none;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5em;
+    list-style-type: none;
+}
+
+nav ul > li {
+    width: 100%;
+    text-align: center;
+}
+
+nav ul > li > a {
+	display: block;
+	padding: 0.4em;
+    text-decoration: none;
+    color: #582768;
+    font-weight: bold;
+}
+
+nav ul > li > a:hover {
+    background-color:#8e20b2;
+    color: black;
+}
+
+nav ul > li:last-child {
+    font-family: 'Fredoka One', 'Londrina Solid', cursive;
+}
+
+a.active {
+    color: #582768;
+}
+
+/*********************************************
+                    NAV
+**********************************************/
+/*********************************************
+                    LOGO
+**********************************************/
+
+#logo-area {
+    background-image: url(../img/fundo_logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 1em;
+}
+
+#logo-area h2 {
+    color: #ffe414;
+    text-shadow: -2px -2px 0 #361a0c,
+                2px -2px 0 #361a0c,
+                -2px  2px 0 #361a0c,
+                2px  2px 0 #361a0c;
+}
+
+/*********************************************
+                    LOGO
+**********************************************/
+/*********************************************
+                    BANNER
+**********************************************/
+
+#banner {
+    background-color: #ffe414;
+    color: #8e20b3;
+}
+
+#banner .section-container {
+    display: flex;
+    text-align: left;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#banner p {
+    font-size: 1.8em;
+    font-weight: bold;
+    padding-left: 2.5em;
+    width: 45%;
+}
+
+#banner img {
+    padding: 1em 0 1em 1em;
+    width: 45%;
+}
+
+#banner strong {
+    text-align: right;
+}
+
+.banner_destaque {
+    font-size: 4em;
+    font-family: 'Fredoka One', 'Londrina Solid', cursive;
+    color: #a70000;
+    -webkit-text-stroke: 4px #8e20b3;
+}
+
+/*********************************************
+                    BANNER
+**********************************************/
+/*********************************************
+                HAMBURGUERES
+**********************************************/
+
+#hamburgueres {
+    background-color:  #8e20b3;
+}
+
+#hamburgueres h2 {
+    color: #8e20b3; 
+    text-shadow: -2px -2px 0 #ffe414,
+                2px -2px 0 #ffe414,
+                -2px  2px 0 #ffe414,
+                2px  2px 0 #ffe414;
+}
+
+#hamburgueres a {
+    color: #ffe414;
+}
+/*********************************************
+                HAMBURGUERES
+**********************************************/
+
+#login h2 {
+    color: #8e20b3;
+    text-shadow: 
+    -1px -1px 0 #ffe414,
+    1px -1px 0 #ffe414,
+    -1px  1px 0 #ffe414,
+    1px  1px 0 #ffe414;
+}
+
+#login a {
+    color: #8e20b3;
+}
+
+.flex-group {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.flex-group.food-section {
+    justify-content: space-evenly;
+    align-items: center;
+    color: #8e20b3;
+    font-family: 'Fredoka One', 'Londrina Solid', cursive;
+    
+}
+
+.food-section > div {
+    margin: 0.5em;
+    /* filter: grayscale(1); */
+    max-width: 23%;
+}
+
+.flex-group > div {
+    background-color: #ffe414;
+}
+
+.flex-group.food-section > div:hover {
+    margin-top: -15px;
+    box-shadow: #fff;
+    filter: grayscale(0);
+}
+
+.flex-group.food-section > div > p {
+    height: 1.5em;
+}
+
+.flex-group.food-section > div > p:nth-child(odd) {
+    font-weight: bold;
+    line-height: 0.5em;
+    font-size: 2em;
+}
+.flex-group.food-section > div > p:nth-child(even) {
+    font-weight: bold;
+    font-size: 3.5em;
+    margin-top: -0.5em;
+    text-shadow: -3px -3px 0 #ffe414,
+                3px -3px 0 #ffe414,
+                -3px  3px 0 #ffe414,
+                3px  3px 0 #ffe414;
+}
+
+.food-container > img {
+    width: 100%;
+}
+
+#historia {
+    background-color: #8e20b3;
+    text-align: left;
+    color: #fff;
+    vertical-align: top;
+}
+
+#historia p {
+font-size: 1.2em;
+}
+
+#historia h2 {
+    color: #8e20b3;
+    text-shadow: 
+    -1px -1px 0 #ffe414,
+    1px -1px 0 #ffe414,
+    -1px  1px 0 #ffe414,
+    1px  1px 0 #ffe414;
+    margin: 0 2em 0 0;
+}
+
+#historia .flex-group {
+    justify-content: flex-start;
+    align-items: center;
+    vertical-align: top;
+}
+
+#historia a {
+    display: block;
+    color: #fff;
+    font-size: 0.8em;
+    text-align: right;
+    padding: 5px 0;
+}
+
+#local {
+    background-color: #ccc;
+}
+
+footer {
+    background-color: #ffe414;
+    font-weight: bold;
+    text-align: center;
+    color:  #8e20b3;
+}
+
+
+.redes-sociais img{
+    height: 100px;
+}
+
+address {
+    padding: 10px 0;
+    font-style: normal;
+}
+
+.up-text {
+    vertical-align: top;
+    padding-left: 0.7em;
+}
+/* Media Query*/
+@media(max-width: 1200px) {
+    #banner p {
+        font-size: 1.6em;
+    }
+}
+
+@media (max-width: 950px) {
+    .food-section > div{
+        margin: 0.5em;
+        max-width: 45%;
+    }
+
+    .flex-group > div > p:nth-child(odd) {
+        font-size: 1em;
+    }
+
+    .flex-group > div > p:nth-child(even) {
+        font-size: 1em;
+    }
+    
+    #banner p{
+        font-size: 1.3em;
+    }
+}
+
+@media (max-width: 625px) {
+    #logo-area > img {
+        padding: 3em 0 0 0;
+        width: 35%;
+    }
+
+    #banner {
+        font-size: .8em;
+        box-align: center;
+    }
+
+    #banner p > strong {
+        -webkit-text-stroke: 2px #8e20b3;
+    }
+
+    nav #bt-mobile-menu {
+        display: block;
+    }
+
+    nav #bt-common-menu {
+        display: none;
+    }
+
+    nav .bt-common-menu.active {
+        display: block;
+    }
+
+    nav ul.mobile-mode {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+#logo-area{
+    background-image:  url(../img/fundo\ logo\ 2.0.jpg) 
+}
+
+.login{
+    align-items: center;
+}
+/* #logo-area {
+    background-image: url(../img/fundo\ do\ logo.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+text-align: center;
+padding: 10em;
+margin: -8.5em;
+} */
+.Reserve h2 {
+    color: #8e20b3;
+    text-shadow: 
+    -1px -1px 0 #ffe414,
+    1px -1px 0 #ffe414,
+    -1px  1px 0 #ffe414,
+    1px  1px 0 #ffe414;
+}
+.Reserve{
+    align-items: center;
+}
+
+
+
+

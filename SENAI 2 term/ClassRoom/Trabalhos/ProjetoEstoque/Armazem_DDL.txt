@@ -1,0 +1,63 @@
+CREATE DATABASE Armazem_DDL
+USE Armazem_DDL
+
+CREATE TABLE Prestador(
+IdPrestador		int primary key identity,
+Nome		varchar(10)
+);
+
+CREATE TABLE TipoTransporte(
+IdTipoTransporte	int primary key identity,
+Nome			varchar(10)
+);
+
+CREATE TABLE ItemPedido(
+IdItemPedido		int primary key identity,
+Nome			varchar(10)
+);
+ 
+CREATE TABLE Armazem(
+IdArmazem		int primary key identity,
+Nome			varchar(10)
+);
+
+CREATE TABLE Categoria(
+IdCategoria		int primary key identity,
+Nome			varchar(10)
+);
+
+CREATE TABLE Item(
+IdItem			int primary key identity,
+IdFornecedor		int foreign key references Item,
+IdCategoria		int foreign key references Item,
+IdLocal			int foreign key references Item,
+Nome			varchar(10),
+NumeroLoteRequerido	varchar(10),
+QuantidadeMinima	varchar(10)
+);
+ 
+CREATE TABLE 	ItemPedido(
+IdItemPedido		int primary key identity,
+IdItem			int foreign key references Item,
+Numerolote		varchar(10),
+Quantidade		varchar(10)
+);
+
+CREATE TABLE Pedido(
+IdPedido		int primary key identity,
+IdTipoTransacao		int foreign key references,
+IdTranportadora		int foreign key references,
+IdArmazemOrigem		int foreign key references,
+IdArmazemDestino	int foreign key references,
+Nome			varchar(10),
+DataPedido		DateTime,
+DataEntrega		DateTime
+);
+
+
+
+
+
+
+
+
